@@ -1,0 +1,10 @@
+{
+    "program": "recordutil.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpHZ8kEYxzjWceJgb35rAZ8sgjzzHA1VaHn1ucm6nq3Ndu",
+        "address": "aleo1svwmulh4x4reqwm957kztexlhxvr3z6xkxhjt86gkz7kd4d08upsuk4lgc"
+    },
+    "license": "MIT"
+}
